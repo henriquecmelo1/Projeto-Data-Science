@@ -1,3 +1,6 @@
+### Link do vídeo de apresentação: 
+https://youtu.be/ZPJ2Qhl3Th4
+
 ## Análise dos Jogos da Premier League 2023
 
 Neste notebook, faremos uma análise dos dados dos jogos da Premier League no ano de 2023. Utilizaremos uma base de dados contendo informações sobre os jogos, como times, placares, datas e estádios.
